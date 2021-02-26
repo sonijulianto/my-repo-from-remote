@@ -1,7 +1,10 @@
 body {
     width: 100%;
-    margin: 30px;
-    background-color: antiquewhite;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    ackground-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
  }
   
  #profile-container{
